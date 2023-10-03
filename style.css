@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #2a78ac;
+}
+
+.game-container {
+    margin-top: 100px;
+}
